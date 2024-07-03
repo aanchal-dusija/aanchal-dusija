@@ -2,6 +2,9 @@
 
 I'm Aanchal Dusija, a Data Storyteller with a passion for transforming complex data into actionable insights. I recently graduated with a Master's in Data Science and Analytics from Georgetown University. My journey in data science has equipped me with a robust skill set in programming, data analysis, and financial modeling.
 
+![Data Science Banner](Storytelling-with-Data-Visualization.png) 
+
+
 ## 🔭 I’m currently working on
 - Advanced time-series forecasting models for economic indicators.
 - Analyzing market trends and investment opportunities using machine learning techniques.
