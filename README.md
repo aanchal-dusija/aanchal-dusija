@@ -1,27 +1,33 @@
 ## Hi there 👋
 
-I'm Aanchal Dusija, a Data Storyteller passionate about transforming complex data into compelling narratives that drive actionable insights.
+I'm Aanchal Dusija, a Data Storyteller with a passion for transforming complex data into actionable insights. I recently graduated with a Master's in Data Science and Analytics from Georgetown University. My journey in data science has equipped me with a robust skill set in programming, data analysis, and financial modeling.
 
-🔭 I’m currently working on projects related to data analysis and machine learning.
+🔭 I’m currently working on
+Advanced time-series forecasting models for economic indicators.
+Analyzing market trends and investment opportunities using machine learning techniques.
 
-🌱 I’m currently learning advanced techniques in NLP and deep learning.
+🌱 I’m currently learning
+Advanced cloud computing strategies.
+Enhancing my skills in big data technologies and NLP.
 
-👯 I’m looking to collaborate on data science and analytics projects.
+👯 I’m looking to collaborate on
+Data science projects that drive social impact.
+Financial risk modeling and economic research.
 
-💬 Ask me about data visualization, machine learning, and data storytelling.
+🤔 I’m looking for help with
+Exploring innovative data visualization techniques.
+Implementing scalable data solutions in cloud environments.
 
-📫 How to reach me: akd73@georgetown.edu
+💬 Ask me about
+Data storytelling and visualization.
+Machine learning applications in finance.
 
-😄 Pronouns: She/Her
+📫 How to reach me
+Email: akd73@georgetown.edu
+LinkedIn: aanchal-dusija
 
-⚡ Fun fact: I love creating data-driven stories that make an impact!
+😄 Pronouns
+She/Her
 
-Skills
-
-Programming Languages: Python, SQL, R
-
-Data Visualization: Tableau, Power BI, Matplotlib, Seaborn
-
-Web Development: HTML, CSS, JavaScript
-
-Data Analysis & Machine Learning: Pandas, Scikit-Learn, TensorFlow
+⚡ Fun fact
+I love exploring the intersection of data science and social good.
