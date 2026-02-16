@@ -1,32 +1,24 @@
 ## Hi there 👋
 
-I'm Aanchal Dusija, a Data Storyteller with a passion for transforming complex data into actionable insights. I recently graduated with a Master's in Data Science and Analytics from Georgetown University. My journey in data science has equipped me with a robust skill set in programming, data analysis, and financial modeling.
+## Hi, I’m Aanchal Dusija 👋
+
+I’m a data scientist passionate about transforming complex data into actionable insights. With a **Master’s in Data Science and Analytics from Georgetown University**, I specialize in **predictive modeling, machine learning, statistical analysis, and financial analytics**. My work focuses on building models and data pipelines that support **risk assessment, portfolio optimization, and strategic decision-making**.
+
 
 ![Data Science Banner](Storytelling-with-Data-Visualization.png) 
 
 
-## 🔭 I’m currently working on
-- Advanced time-series forecasting models for economic indicators.
-- Analyzing market trends and investment opportunities using machine learning techniques.
+### 💡 Skills & Tools
+Python | SQL | Machine Learning | Statistical Modeling | Time-Series Forecasting | Cloud Computing (AWS, GCP) | Big Data | NLP | Financial & Risk Analytics
 
-## 🌱 I’m currently learning
-- Advanced cloud computing strategies.
-- Enhancing my skills in big data technologies and NLP.
+### 🔭 Current Projects
+- Advanced time-series forecasting for economic and financial indicators.  
+- Machine learning analysis of market trends and investment opportunities.
 
-## 👯 I’m looking to collaborate on
-- Data science projects that drive social impact.
-- Financial risk modeling and economic research.
+### 🌱 Learning
+- Scalable cloud-based data solutions.  
+- Innovative data visualization and dashboarding techniques.
 
-## 🤔 I’m looking for help with
-Exploring innovative data visualization techniques.
-Implementing scalable data solutions in cloud environments.
+### ⚡ Fun Fact
+I love exploring how **data science can drive social impact** while solving complex business problems.
 
-## 💬 Ask me about
-Data storytelling and visualization.
-Machine learning applications in finance.
-
-## 😄 Pronouns
-She/Her
-
-## ⚡ Fun fact
-I love exploring the intersection of data science and social good.
