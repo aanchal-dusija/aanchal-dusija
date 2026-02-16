@@ -1,24 +1,19 @@
-## Hi there 👋
+## Hi, I’m Aanchal Dusija 👋  
+**Data Scientist | Credit Risk Management | Predictive Modeling**  
 
-## Hi, I’m Aanchal Dusija 👋
+I turn complex datasets into **actionable insights**. At **Lincoln Financial**, I design and implement **credit risk models, predictive analytics frameworks, and interactive dashboards** that support smarter financial decisions and optimize portfolio performance. I’m passionate about applying **machine learning, statistical modeling, and data engineering** to solve real-world problems in finance and risk analytics.  
 
-I’m a data scientist passionate about transforming complex data into actionable insights. With a **Master’s in Data Science and Analytics from Georgetown University**, I specialize in **predictive modeling, machine learning, statistical analysis, and financial analytics**. My work focuses on building models and data pipelines that support **risk assessment, portfolio optimization, and strategic decision-making**.
+Beyond modeling, I enjoy exploring **time-series forecasting, natural language processing, and cloud-based data solutions** to uncover patterns, generate insights, and help stakeholders make data-driven decisions.  
 
+![Data Science Banner](Website-Analytics.png) 
 
-![Data Science Banner](Storytelling-with-Data-Visualization.png) 
+💡 **Specialties:**  
+- <u>**Python & SQL**</u>: Data cleaning, analysis, and building end-to-end predictive models for credit risk and financial forecasting.  
+- <u>**Time-Series Forecasting**</u>: Modeling economic and financial indicators using ARIMA, RNNs, and other advanced techniques.  
+- <u>**Machine Learning**</u>: Applying regression, ensemble methods, and neural networks to extract actionable insights from large datasets.  
+- <u>**Power BI & Data Visualization**</u>: Designing interactive dashboards to communicate complex analyses clearly to stakeholders.  
+- <u>**Credit Risk Analytics**</u>: Developing in-house models for probability of default (PD), portfolio optimization, and capital allocation.  
+- <u>**Data Engineering & Cloud Solutions**</u>: Building robust data pipelines and scalable solutions for handling large datasets in cloud environments (AWS/GCP).  
+- <u>**Natural Language Processing (NLP)**</u>: Extracting insights from textual datasets, including social media and research reports.
 
-
-### 💡 Skills & Tools
-Python | SQL | Machine Learning | Statistical Modeling | Time-Series Forecasting | Cloud Computing (AWS, GCP) | Big Data | NLP | Financial & Risk Analytics
-
-### 🔭 Current Projects
-- Advanced time-series forecasting for economic and financial indicators.  
-- Machine learning analysis of market trends and investment opportunities.
-
-### 🌱 Learning
-- Scalable cloud-based data solutions.  
-- Innovative data visualization and dashboarding techniques.
-
-### ⚡ Fun Fact
-I love exploring how **data science can drive social impact** while solving complex business problems.
-
+Check out my **projects below** to see my work in action! 🚀
